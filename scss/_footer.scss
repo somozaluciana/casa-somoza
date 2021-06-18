@@ -1,0 +1,11 @@
+$color: (
+    blue: #1E2C76
+);
+
+@each $name, $colores in $color {
+    .footer--#{$name}{
+        background-color: $colores;
+    }
+}
+
+

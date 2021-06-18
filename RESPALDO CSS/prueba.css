@@ -1,0 +1,9 @@
+body {
+  color: aquamarine; }
+
+.encabezado {
+  color: red; }
+  .encabezado a {
+    font-size: large; }
+    .encabezado a img {
+      width: 20vw; }
