@@ -129,7 +129,7 @@ ul {
   width: 100%;
   grid-template-columns: repeat(3, 1fr);
   justify-content: center;
-  padding: 30vh; }
+  padding: 10px; }
 
 @media (max-width: 768px) {
   .ingresoTienda {
