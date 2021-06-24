@@ -137,6 +137,7 @@ ul {
   .ingresoTienda {
     display: flex;
     flex-direction: row;
+    flex-wrap: center;
     align-items: center;
     margin: 10rem 0;
     height: 100%} }
