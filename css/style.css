@@ -127,9 +127,9 @@ ul {
 
 .ingresoTienda {
   display: flex;
-  height: 100vh;
+  height: 63vh;
+  align-items: center;
   width: 100%;
-  grid-template-columns: repeat(3, 1fr);
   justify-content: center;
   }
 
@@ -137,8 +137,9 @@ ul {
   .ingresoTienda {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
-    align-items: center; } }
+    align-items: center;
+    margin: 10rem 0;
+    height: 100%} }
 
 .serviciosMarg {
   padding-top: 15vh; }
