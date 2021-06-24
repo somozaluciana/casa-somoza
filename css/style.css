@@ -109,11 +109,6 @@ ul {
 .carouselExampleIndicators {
   display: flex; }
 
-@media (max-width: 768px) {
-  .carousel-inner {
- max-width:768px;}
- } 
-
 .conteiner {
   height: 100vh;
   display: grid;
