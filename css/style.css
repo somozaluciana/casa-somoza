@@ -117,12 +117,6 @@ ul {
 .carousel-item {
   align-items: center; }
 
-@media (max-width: 768px) {
-  .carouselExampleIndicators {
-    height: 100%;}
-  }
-    
-
 .carroPortada {
   padding-top: 20vh;
   text-align: center; }
